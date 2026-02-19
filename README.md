@@ -1,5 +1,4 @@
 # [Nesbitt.io](https://nesbitt.io)
-
 Personal blog built with Jekyll and hosted on GitHub Pages.
 
 I write about package management, software supply chain security, and open source infrastructure. I'm building [Ecosyste.ms](https://ecosyste.ms), a collection of open datasets and tools for understanding and improving critical open source infrastructure.
@@ -16,5 +15,5 @@ I write about package management, software supply chain security, and open sourc
 - [The Many Flavors of Ignore Files](https://nesbitt.io/2026/02/12/the-many-flavors-of-ignore-files.html)
 - [Package Management Consulting](https://nesbitt.io/2026/02/11/package-management-consulting.html)
 - [Lockfiles Killed Vendoring](https://nesbitt.io/2026/02/10/lockfiles-killed-vendoring.html)
-- [Package Manager Podcast Episodes](https://nesbitt.io/2026/02/09/package-manager-podcast-episodes.html)
+- [Package Manager Podcast Episodes](https://nesbitt.io/2026/02/09/package-manager-podcast-episodes.13u4uETizvEIC7m0wBAzLARWF9k12wKYHCB69rHAmSOM.html)
 <!-- POSTS:END -->
